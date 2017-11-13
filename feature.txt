@@ -1,1 +1,3 @@
 to jest feature
+
+koleœ 1 edytuje feature
